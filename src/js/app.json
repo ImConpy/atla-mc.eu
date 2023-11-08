@@ -1,0 +1,16 @@
+{
+    "name": "AtlaMC Network",
+    "short_name": "AtlaMC Network",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ff0004",
+    "description": "Applicazione ufficiale di AtlaMC.",
+    "icons": [
+      {
+        "src": "/src/images/logo-lq.png",
+        "sizes": "456x456",
+        "type": "image/png"
+      }
+    ]
+  }
+  
